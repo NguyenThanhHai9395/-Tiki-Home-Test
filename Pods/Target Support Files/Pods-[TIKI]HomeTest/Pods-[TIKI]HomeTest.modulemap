@@ -1,0 +1,6 @@
+framework module Pods__TIKI_HomeTest {
+  umbrella header "Pods-[TIKI]HomeTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
